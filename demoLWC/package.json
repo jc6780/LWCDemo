@@ -23,6 +23,6 @@
     "prettier-plugin-apex": "^1.4.0"
   },
   "dependencies": {
-    "d3": "^5.16.0"
+    "d3": "^7.6.1"
   }
 }
